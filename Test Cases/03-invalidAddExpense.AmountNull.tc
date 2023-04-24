@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03-invalidAddExpense.AmountNull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd928b9c-ee34-4149-a0a2-45a91174135c</testCaseGuid>
+</TestCaseEntity>
